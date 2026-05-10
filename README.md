@@ -480,13 +480,13 @@ MIT — free to use, modify, and distribute with attribution.
 
 ## Author
 
-**Aditya Singh Bhadauria** — AI/ML Engineer & Full Stack Developer
+**Sanyasappadu Gadu** — AI/ML Engineer & Full Stack Developer
 
 Built end-to-end using Python, FastAPI, React, PostgreSQL, and OpenAI API.
 
-- GitHub: [github.com/Adi77189](https://github.com/Adi77189)
-- LinkedIn: [linkedin.com/in/aditya-bhadauria-9b8082302/](https://www.linkedin.com/in/aditya-bhadauria-9b8082302/)
-- Email: youremail@gmail.com
+- GitHub: [github.com/sanyasappadu](https://github.com/sanyasappadu)
+- LinkedIn: [www.linkedin.com/in/sanyasappadu-gadu/](https://www.linkedin.com/in/sanyasappadu-gadu/)
+- Email: sanyasappadu4@gmail.com
 
 > *"Groww shows you stocks. Zerodha gives you tools. This agent makes the decision, explains the reasoning, executes the trade, and learns from outcomes — automatically."*
 
